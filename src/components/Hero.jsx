@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import useInfiniteGradient from "../hooks/useInfinitGradient";
 import Typewriter from "./TyperWriter";
-import MyPicture from '../assets/mypicture.jpeg';
+
 
 export default function HeroAbout() {
   const gradient = useInfiniteGradient();
@@ -110,7 +110,7 @@ export default function HeroAbout() {
             >
               <div className="w-full h-full rounded-lg overflow-hidden bg-slate-900 shadow-xl">
                 <img
-                  src={MyPicture}
+                  src="public\assets\mypicture.jpeg"
                   alt="Kashif Mehmood"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />

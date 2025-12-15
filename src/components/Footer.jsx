@@ -32,7 +32,7 @@ export default function Footer() {
       <div className="absolute -top-10 sm:-top-12 left-1/2 -translate-x-1/2">
         <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full overflow-hidden border-4 border-indigo-500 shadow-lg">
           <img
-            src="src/assets/mypicture.jpeg"
+            src="public\assets\mypicture.jpeg"
             alt="Kashif Mehmood"
             className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
           />
