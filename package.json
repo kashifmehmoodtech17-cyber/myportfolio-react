@@ -1,9 +1,9 @@
 {
-  "name": "myreactapp",
+  "name": "myportfolio-react",
+  "homepage": "https://kashifmehmoodtech17-cyber.github.io/myportfolio-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kashifmehmoodtech17-cyber.github.io/myportfolio-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
