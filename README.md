@@ -9,21 +9,23 @@ I love learning new technologies, solving challenging problems, and continuously
 
 ---
 
-
 ## <font color="yellow">🛠 Skills</font>
 
 ### <font color="cyan">FRONTEND</font>
+
 - HTML5  
 - CSS3  
 - JavaScript  
 - React  
 
 ### <font color="cyan">BACKEND</font>
+
 - Node.js  
 - Express.js  
 - Python (Flask / Django)  
 
 ### <font color="cyan">DATABASES</font>
+
 - MySQL  
 - Firebase  
 - MongoDB  
@@ -46,25 +48,26 @@ I love learning new technologies, solving challenging problems, and continuously
 
 ![SQL](https://img.shields.io/badge/SQL-FF4136?style=for-the-badge&logo=postgresql&logoColor=white&radius=15)
 
-
-
 ---
 
 ## <font color="cyan">📂 Projects</font>
 
 ### 🌦 **Weather App**
+
 <img src="src/assets/weatherApp.jpeg" width="260" height="150">
 
-###  **ToDo App**
+### **ToDo App**
+
 <img src="src/assets/todoApp.jpeg" width="260" height="150">
 
 ### 🛒 **E-Commerce**
+
 <img src="src/assets/ecommerce.jpeg" width="260" height="150">
 
 ---
 
-##  Contact Me
+## Contact Me
 
-- Email: kashifmehmoodtech17@gmail.com  
+- Email: <kashifmehmoodtech17@gmail.com>  
 - LinkedIn: [Kashif Mehmood](#)  
 - GitHub: [kashifmehmoodtech17-cyber](#)
